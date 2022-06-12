@@ -2,36 +2,36 @@
 
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Github",
+    subtitle: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project.jpg",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ArbabHaiderCheema/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "My Website",
+    subtitle: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project.jpg",
-    link: "https://reedbarger.com",
+    link: "https://arbabhaider.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "React Portfolio",
+    subtitle: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project.jpg",
-    link: "https://jsbootcamp.com",
+    link: "https://github.com/ArbabHaiderCheema/my-portfolio-react",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "LinkedinProfile",
+    subtitle: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project.jpg",
-    link: "https://pythonbootcamp.com",
+    link: "https://www.linkedin.com/in/arbab-haider-cheema-1b5466121/",
   },
 ];
 
